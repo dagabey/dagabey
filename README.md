@@ -1,4 +1,4 @@
-# Howdy 🤠👋
+# Gabe 🤠👋
 I'm Gabe, a 13 year-old dude currently learning HTML, CSS, and JavaScript. I hope to develop websites, chrome/firefox extensions, and eventually make desktop apps with C#.
 
 I am constantly using what I learn to make small projects which I will upload here for you to check out.😄
