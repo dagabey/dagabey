@@ -1,11 +1,16 @@
-# Gabe 🤠👋
-I'm Gabe, a 13 year-old dude currently learning HTML, CSS, and JavaScript. I hope to develop websites, chrome/firefox extensions, and eventually make desktop apps with C#.
+`👦🏽` **About Me**
+<ul>
+<li>🎓 I'm a 14 y/o freshman in HS' </li>
+<li>I'm interested in coding useful web-apps, running track & XC, and learning new things. 
+</ul>
 
-I am constantly using what I learn to make small projects which I will upload here for you to check out.😄
+<br>
 
-Some helpful links:
-<a href="https://www.codecademy.com" target="_blank">Website I'm Using to learn Coding, </a> <a href="https://dagabey.github.io/MainWebsite/">My First Website, </a> <a href="https://www.youtube.com/channel/UC3vTQpO_BOr9c8eQ1axqWQQ">My Tech YouTube Channel.</a>
+**`🌱` Skills**
+<ul>
+<li>HTML/CSS</li>
+<li>Javascript</li>
+<li>🤔 Currently learning React</li>
+<li>🥱 I know a bit of Phyton, C++, and Java</li>
+</ul>
 
-<img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/austin-texas-colorful-pano-frozen-in-time-fine-art-photography.jpg"></img>
-
-☝️ Austin, Texas
