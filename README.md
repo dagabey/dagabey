@@ -27,6 +27,6 @@
 
 **`💯` Socials**
 <ul>
-<li><a href="https://www.instagram.com/gaberfox_/">Instagram</a> @gaberfox_</li>
-<li><a href="https://twitter.com/gaberfox_">Twitter</a> @gaberfox_</li>
+<li>📷 <a href="https://www.instagram.com/gaberfox_/">Instagram</a> @gaberfox_</li>
+<li>🐦 <a href="https://twitter.com/gaberfox_">Twitter</a> @gaberfox_</li>
 </ul>
