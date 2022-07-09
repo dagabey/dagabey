@@ -22,3 +22,11 @@
 <li>I made a <a href="https://gaberf.github.io/aboutme/" target="_blank">personal website</a> for myself, which I'm working on updating at the moment</li>
 <li>I'm working on developing a weather web-app called <a href="https://github.com/gaberf/BrightSide">Bright Side</a> which is currently in beta</li>
 </ul>
+
+<br>
+
+**`💯` Socials**
+<ul>
+<li><a href="https://www.instagram.com/gaberfox_/">Instagram</a> @gaberfox_</li>
+<li><a href="https://twitter.com/gaberfox_">Twitter</a> @gaberfox_</li>
+</ul>
