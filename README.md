@@ -1,7 +1,7 @@
 `👦🏽` **About Me**
 <ul>
-<li>🎓 I'm a 14 y/o freshman in hs' </li>
-<li>I'm interested in coding useful web-apps, running track & XC, and learning new things. 
+<li>🎓 I'm a 14 y/o freshman in HS </li>
+<li>I'm interested in coding useful web-apps, running track & XC, and learning new things
 </ul>
 
 <br>
