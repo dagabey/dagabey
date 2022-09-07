@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=24&pause=1000&color=C8C8C8&width=435&lines=Gabe+Fox)
+
 `👦🏽` **About Me**
 <ul>
 <li>🎓 I'm a 14 y/o freshman in HS </li>
