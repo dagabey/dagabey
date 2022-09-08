@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=24&pause=1000&color=C8C8C8&width=435&lines=Hey+there,+I'm+Gabe,+a+high+school+student+learning+to+code!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=24&pause=1000&color=C8C8C8&width=435&lines=Hey+there,+I'm+Gabe,+a+high+schooler!)
 
 `👦🏽` **About Me**
 <ul>
