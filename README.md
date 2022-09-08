@@ -13,7 +13,7 @@
 <li>HTML/CSS</li>
 <li>Javascript</li>
 <li>🤔 Currently learning React</li>
-<li>🥱 I know some Phyton, C++, and Java</li>
+<li>🥱 I know some Python, C++, and Java</li>
 </ul>
 
 <br>
